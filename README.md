@@ -219,7 +219,7 @@ También se recomienda usar Visual Studio Code con la extensión **Live Server**
 La página quedará disponible en una dirección similar a:
 
 ```text
-https://usuario.github.io/nombre-del-repositorio/
+https://laboratorio-percepcion-artificial-uaq.github.io/Plataforma-Musicoterapia/
 ```
 
 ## Consideraciones clínicas
@@ -250,9 +250,11 @@ Proyecto desarrollado como plataforma digital educativa sobre musicoterapia peri
 
 Responsable del proyecto:
 
+```text
 Nombre del responsable: L.E Guadalupe Joseline Navarrete Campos
 Institución: Facultad de Enfermería, UAQ
 Correo de contacto: [joseline_chica@hotmail.com]
+```
 
 ## Licencia
 
