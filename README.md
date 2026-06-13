@@ -250,7 +250,7 @@ Proyecto desarrollado como plataforma digital educativa sobre musicoterapia peri
 
 Responsable del proyecto:
 
-* **[L.E Guadalupe Joseline Navarrete Campos]** — [Facultad de Enfermería, UAQ] — [joseline_chica@hotmail.com]
+* **L.E Guadalupe Joseline Navarrete Campos** — Facultad de Enfermería, UAQ — joseline_chica@hotmail.com
 
 ## Licencia
 
