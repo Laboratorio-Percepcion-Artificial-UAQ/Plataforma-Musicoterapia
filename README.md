@@ -253,7 +253,7 @@ Responsable del proyecto:
 ```text
 Nombre del responsable: L.E Guadalupe Joseline Navarrete Campos
 Institución: Facultad de Enfermería, UAQ
-Correo de contacto: [joseline_chica@hotmail.com]
+Correo de contacto: joseline_chica@hotmail.com
 ```
 
 ## Licencia
